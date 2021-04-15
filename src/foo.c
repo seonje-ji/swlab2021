@@ -9,5 +9,5 @@ int foo(int flag){
 	else{
 	printf("good bye~\n");
 	}
-	return0;
+	return 0;
 }
